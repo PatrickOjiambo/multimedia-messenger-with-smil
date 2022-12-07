@@ -1,0 +1,5 @@
+{
+    "subject":"Configure your email settings!",
+    "bodyHTML":"<center><h2><strong>Configure your email</strong></h2><br><p> <a href='https://flag.riverside.rocks/account/settings/email/?ref=email'>here</a>",
+    "bodyTXT":" https://flag.riverside.rocks/account/settings."
+}
